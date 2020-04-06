@@ -21,3 +21,11 @@ Don't be a robot by Burkhardt
 Prediction Machines by Agrawal
 
 Life 3.0 by Tegmark
+
+**Beginner AI Online Courses**
+
+AI for everyone by Andrew Ng (Coursera)
+
+elementsof.ai
+
+AI Product Manager (Udacity)
