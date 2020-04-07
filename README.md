@@ -29,3 +29,11 @@ AI for everyone by Andrew Ng (Coursera)
 elementsof.ai
 
 AI Product Manager (Udacity)
+
+**AI Experts**
+
+Lex Fridman (MIT)
+
+Andrew Ng (Stanford)
+
+Yann LeCun (Facebook)
